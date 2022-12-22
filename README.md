@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezaariftiarno
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning some basic programming language such as Javascript, PHP, Node JS, and many more
+- 🌱 I’m currently learning some basic programming language such as Javascript, PHP, Python, and many more
 - 📫 You can find me on Instagram: Razertiar
 
 <!---
