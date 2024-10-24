@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezaariftiarno
-- 👀 I’m interested in (well, of course)
+- 👀 I’m interested in programming (well, of course)
 - 🌱 I’m currently learning some basic programming language such as Javascript, PHP, Python, and many more
 - 📫 You can find me on Instagram: rezaariftiarno
 
